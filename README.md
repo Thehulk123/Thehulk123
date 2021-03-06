@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... A pillar's height is twice the half of the pillar itself
 -->
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehulk123&hide=contribs,prs&count_private=true)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehulk123&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
